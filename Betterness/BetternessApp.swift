@@ -11,7 +11,8 @@ import SwiftUI
 struct BetternessApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CalendarView()
         }
     }
 }
+
